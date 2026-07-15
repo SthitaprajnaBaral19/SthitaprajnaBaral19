@@ -1,3 +1,6 @@
+<div align="center">
+     <img src="./banner.svg" alt="Sthitaprajna Baral" width="100%" />
+</div>
 # 💫 About Me:
 🔭 I’m currently working on my personal projects alongside an AI-Based Patient Care project for adverse drug reaction prediction.<br>👯 I’m looking to collaborate on innovative hackathon projects, AI/ML healthcare solutions, and modern web applications.<br>🤝 I’m looking for help with mastering advanced React concepts to build dynamic, interactive websites.<br>🌱 I’m currently learning deeper aspects of front-end web development, advanced CSS, and expanding my Python programming skills.<br>💬 Ask me about AI in healthcare, Python application development, or my favorite mods!<br>⚡ Fun fact When I'm not studying computer science or coding, I'm probably experimenting with generating anime-style digital art or exploring my art skills.
 
